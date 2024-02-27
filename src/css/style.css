@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+}
+.nav.list{
+    width: 50%;
+    background-color: red;
+
+
+}
+.nav-list li{
+    
+
+}
+.nav-list li a{
+    background-color: ;
+
+}
+.rightnav{
+    background-color: red;
+    width: 50%;
+}
